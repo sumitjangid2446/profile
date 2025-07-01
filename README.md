@@ -1,4 +1,4 @@
-# 🌐 Personal Portfolio - Sumit Jangid aka Night Coder
+# 🌐 Personal Portfolio - Sumit Jangid 
 
 Welcome to my personal portfolio website! 💻✨  
 This is a modern and responsive portfolio built using **HTML**, **CSS**, and **JavaScript** to showcase my skills, projects, and developer journey.
@@ -43,4 +43,4 @@ This is a modern and responsive portfolio built using **HTML**, **CSS**, and **J
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/sumitjangid2446/YourPortfolioRepo.git
+git clone hhttps://sumitjangid2446.github.io/profile/
