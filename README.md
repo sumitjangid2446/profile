@@ -43,4 +43,4 @@ This is a modern and responsive portfolio built using **HTML**, **CSS**, and **J
 
 1. Clone the repo:
 ```bash
-git clone hhttps://sumitjangid2446.github.io/profile/
+ https://sumitjangid2446.github.io/profile/
