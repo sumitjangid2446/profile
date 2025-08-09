@@ -8,7 +8,7 @@ This is a modern and responsive portfolio built using **HTML**, **CSS**, and **J
 ## 🚀 Live Demo
 
 👉 [Click here to visit my Portfolio](https://sumitjangid2446.github.io/profile/)  
-(Replace with your actual portfolio link)
+
 
 ---
 ## 🛠 Tech Stack
